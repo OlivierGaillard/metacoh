@@ -1,0 +1,9 @@
+*.db
+*.pid
+*.pyc
+*.sock
+*.txt
+*.md
+settings.py
+local_settings.py
+/deploy
